@@ -8,7 +8,7 @@ spring:
     password: 952726SS507.
   redis:
     host: paascloud-db-redis
-    password: 952726SS507.
+    password: 123456
     port: 6379
     timeout: 0
   datasource:
